@@ -36,11 +36,11 @@
 59,White Noise,6.6,2022,December,R,136.0,Noah Baumbach,"Adam Driver, Greta Gerwig, Don Cheadle, Madison Gaughan","Comedy, Drama, Horror",USA,80000000.0,70459.0,"United States, United Kingdom"
 61,Thor: Love and Thunder,6.3,2022,July,PG-13,118.0,Taika Waititi,"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson","Action, Adventure, Comedy",Australia,250000000.0,760928081.0,"Australia, United States"
 68,Devotion,7.0,2022,November,PG-13,139.0,J D Dillard,"Jonathan Majors, Glen Powell, Christina Jackson, Thomas Sadoski","Action, Drama, War",USA,90000000.0,19949405.0,United States
-69,Terrifier 2,6.2,2022,October,Not Rated,138.0,Damien Leone,"Lauren LaVera, David Howard Thornton, Jenna Kanell, Kailey Hyman",Horror,USA,250000.0,12150025.0,United States
+69,Terrifier 2,6.2,2022,October,Unknown,138.0,Damien Leone,"Lauren LaVera, David Howard Thornton, Jenna Kanell, Kailey Hyman",Horror,USA,250000.0,12150025.0,United States
 70,See How They Run,6.5,2022,September,PG-13,98.0,Tom George,"Kieran Hodgson, Pearl Chanda, Gregory Cox, Harris Dickinson","Comedy, Mystery",UK,40000000.0,21966634.0,"United States, United Kingdom"
 72,Elvis,7.4,2022,June,PG-13,159.0,Baz Luhrmann,"Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson","Biography, Drama, Music",Australia,85000000.0,286040048.0,"United States, Australia"
 74,The Gray Man,6.5,2022,July,PG-13,122.0,"Anthony Russo, Joe Russo","Ryan Gosling, Chris Evans, Ana de Armas, Billy Bob Thornton","Action, Thriller",France,200000000.0,454023.0,"United States, Czech Republic"
-75,RRR,7.9,2022,March,Not Rated,187.0,S S Rajamouli,"N T Rama Rao Jr , Ram Charan Teja, Ajay Devgn, Alia Bhatt","Action, Drama",Bulgaria,47297297.2972973,102973162.0,India
+75,RRR,7.9,2022,March,Unknown,187.0,S S Rajamouli,"N T Rama Rao Jr , Ram Charan Teja, Ajay Devgn, Alia Bhatt","Action, Drama",Bulgaria,47297297.2972973,102973162.0,India
 81,Decision to Leave,7.3,2022,June,PG-13,139.0,Park Chan wook,"Park Hae il, Tang Wei, Lee Jung hyun, Go Kyung Pyo","Crime, Drama, Mystery",South Korea,10000000.0,21661216.0,South Korea
 82,Fall,6.4,2022,August,PG-13,107.0,Scott Mann,"Grace Caroline Currey, Virginia Gardner, Mason Gooding, Jeffrey Dean Morgan",Thriller,USA,3000000.0,17377065.0,"United Kingdom, United States"
 87,Uncharted,6.3,2022,February,PG-13,116.0,Ruben Fleischer,"Tom Holland, Mark Wahlberg, Antonio Banderas, Sophia Ali","Action, Adventure",Spain,120000000.0,401748820.0,"Spain, United States"
@@ -85,7 +85,7 @@
 157,The Tomorrow War,6.5,2021,July,PG-13,138.0,Chris McKay,"Chris Pratt, Yvonne Strahovski, J K Simmons, Betty Gilpin","Action, Adventure, Drama",Iceland,200000000.0,14400000.0,United States
 160,Godzilla vs. Kong,6.3,2021,March,PG-13,113.0,Adam Wingard,"Alexander Skarsg rd, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry","Action, Sci-Fi, Thriller",Australia,200000000.0,470067014.0,United States
 161,Cruella,7.3,2021,May,PG-13,134.0,Craig Gillespie,"Emma Stone, Emma Thompson, Joel Fry, Paul Walter Hauser","Adventure, Comedy, Crime",UK,100000000.0,233503234.0,"United States, United Kingdom"
-163,Benedetta,6.8,2021,December,Unrated,131.0,Paul Verhoeven,"Virginie Efira, Charlotte Rampling, Daphne Patakia, Lambert Wilson","Biography, Drama, History",France,24350000.0,4250592.0,"France, Belgium, Netherlands"
+163,Benedetta,6.8,2021,December,Unknown,131.0,Paul Verhoeven,"Virginie Efira, Charlotte Rampling, Daphne Patakia, Lambert Wilson","Biography, Drama, History",France,24350000.0,4250592.0,"France, Belgium, Netherlands"
 164,Resident Evil: Welcome to Raccoon City,5.2,2021,November,R,107.0,Johannes Roberts,"Kaya Scodelario, Robbie Amell, Hannah John Kamen, Tom Hopper","Action, Horror, Sci-Fi",Canada,25000000.0,41914915.0,"Canada, Germany"
 166,Boiling Point,7.5,2021,January,R,92.0,Philip Barantini,"Stephen Graham, Vinette Robinson, Alice Feetham, Ray Panthaki","Drama, Thriller",UK,820000.0,1426916.0,United Kingdom
 169,Venom: Let There Be Carnage,5.9,2021,October,PG-13,97.0,Andy Serkis,"Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris","Action, Adventure, Sci-Fi",UK,110000000.0,506863592.0,"United States, China"
@@ -125,7 +125,7 @@
 267,Unhinged,6.0,2020,August,R,90.0,Derrick Borte,"Russell Crowe, Caren Pistorius, Gabriel Bateman, Jimmi Simpson","Action, Thriller",USA,33000000.0,44331465.0,"United Kingdom, United States"
 270,The Rental,5.7,2020,July,R,88.0,Dave Franco,"Dan Stevens, Alison Brie, Sheila Vand, Jeremy Allen White","Drama, Horror, Mystery",USA,3500000.0,4311042.0,United States
 276,Bad Boys for Life,6.5,2020,January,R,124.0,"Adil El Arbi, Bilall Fallah","Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig","Action, Comedy, Crime",Mexico,90000000.0,426505244.0,United States
-277,Riders of Justice,7.5,2020,May,Not Rated,116.0,Anders Thomas Jensen,"Mads Mikkelsen, Nikolaj Lie Kaas, Andrea Heick Gadeberg, Lars Brygmann","Action, Comedy, Drama",Denmark,5300000.0,2000541.0,"Denmark, Sweden, Finland"
+277,Riders of Justice,7.5,2020,May,Unknown,116.0,Anders Thomas Jensen,"Mads Mikkelsen, Nikolaj Lie Kaas, Andrea Heick Gadeberg, Lars Brygmann","Action, Comedy, Drama",Denmark,5300000.0,2000541.0,"Denmark, Sweden, Finland"
 278,The Wolf of Snow Hollow,6.2,2020,October,R,85.0,Jim Cummings,"Jim Cummings, Riki Lindhome, Robert Forster, Chloe East","Comedy, Horror, Mystery",USA,2000000.0,266963.0,United States
 279,I Care a Lot,6.3,2020,February,R,118.0,J Blakeson,"Rosamund Pike, Peter Dinklage, Eiza Gonz lez, Dianne Wiest","Comedy, Crime, Drama",USA,14000000.0,1351662.0,"United States, United Kingdom"
 294,Onward,7.4,2020,March,PG,102.0,Dan Scanlon,"Tom Holland, Chris Pratt, Julia Louis Dreyfus, Octavia Spencer","Animation, Adventure, Comedy",USA,175000000.0,141940042.0,United States
@@ -176,7 +176,7 @@
 353,Anna,6.6,2019,June,R,118.0,Luc Besson,"Sasha Luss, Helen Mirren, Luke Evans, Cillian Murphy","Action, Thriller",Serbia,34986600.0,31626978.0,"France, United States, Canada, Russia"
 354,Fast & Furious Presents: Hobbs & Shaw,6.5,2019,August,PG-13,137.0,David Leitch,"Dwayne Johnson, Jason Statham, Idris Elba, Vanessa Kirby","Action, Adventure, Thriller",USA,200000000.0,760732926.0,"United States, Japan"
 355,Downton Abbey,7.4,2019,September,PG,122.0,Michael Engler,"Stephen Campbell Moore, Michael Fox, Lesley Nicol, Sophie McShera","Drama, Romance",UK,13000000.0,194694725.0,"United Kingdom, United States, China"
-356,Queen of Hearts,7.1,2019,November,Not Rated,127.0,May el Toukhy,"Trine Dyrholm, Gustav Lindh, Magnus Krepper, Liv Esm r Dannemann",Drama,Denmark,2925000.0,437005.0,"Denmark, Sweden"
+356,Queen of Hearts,7.1,2019,November,Unknown,127.0,May el Toukhy,"Trine Dyrholm, Gustav Lindh, Magnus Krepper, Liv Esm r Dannemann",Drama,Denmark,2925000.0,437005.0,"Denmark, Sweden"
 357,Hellboy,5.2,2019,April,R,120.0,Neil Marshall,"David Harbour, Milla Jovovich, Ian McShane, Sasha Lane","Action, Adventure, Fantasy",Bulgaria,50000000.0,55065289.0,"United States, United Kingdom, Bulgaria, Canada, Portugal, France"
 359,Brightburn,6.1,2019,May,R,90.0,David Yarovesky,"Elizabeth Banks, David Denman, Jackson A Dunn, Abraham Clinkscales","Drama, Horror, Mystery",USA,6000000.0,33224654.0,United States
 360,Toy Story 4,7.7,2019,June,G,100.0,Josh Cooley,"Tom Hanks, Tim Allen, Annie Potts, Tony Hale","Animation, Adventure, Comedy",USA,200000000.0,1073394593.0,United States
@@ -235,7 +235,7 @@
 431,Climax,6.9,2018,September,R,97.0,Gaspar No,"Sofia Boutella, Romain Guillermic, Souheila Yacoub, Kiddy Smile","Drama, Horror, Music",France,2963999.9999999995,1699164.0,"France, Belgium"
 432,The Meg,5.6,2018,August,PG-13,113.0,Jon Turteltaub,"Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis","Action, Horror, Sci-Fi",New Zealand,130000000.0,530517320.0,"United States, China"
 433,Den of Thieves,7.0,2018,January,R,140.0,Christian Gudegast,"Gerard Butler, Pablo Schreiber, O Shea Jackson Jr , 50 Cent","Action, Crime, Drama",USA,30000000.0,80509622.0,United States
-434,The Witch: Part 1 - The Subversion,7.1,2018,June,Not Rated,125.0,Park Hoon jung,"Kim Da mi, Min soo Jo, Choi Woo sik, Go Min Si","Action, Mystery, Sci-Fi",Unknown,5500000.0,24343708.0,South Korea
+434,The Witch: Part 1 - The Subversion,7.1,2018,June,Unknown,125.0,Park Hoon jung,"Kim Da mi, Min soo Jo, Choi Woo sik, Go Min Si","Action, Mystery, Sci-Fi",Unknown,5500000.0,24343708.0,South Korea
 436,Sicario: Day of the Soldado,7.0,2018,June,R,122.0,Stefano Sollima,"Benicio Del Toro, Josh Brolin, Isabela Merced, Jeffrey Donovan","Action, Crime, Drama",Mexico,35000000.0,75837743.0,"United States, Mexico"
 437,Bad Times at the El Royale,7.1,2018,October,R,141.0,Drew Goddard,"Jeff Bridges, Cynthia Erivo, Dakota Johnson, Jon Hamm","Crime, Drama, Mystery",Canada,32000000.0,31882724.0,United States
 438,Mid90s,7.3,2018,October,R,85.0,Jonah Hill,"Sunny Suljic, Katherine Waterston, Lucas Hedges, Na kel Smith","Comedy, Drama",USA,1700000.0,9303022.0,United States
@@ -255,7 +255,7 @@
 454,The Predator,5.3,2018,September,R,107.0,Shane Black,"Boyd Holbrook, Trevante Rhodes, Jacob Tremblay, Keegan Michael Key","Action, Adventure, Sci-Fi",Canada,88000000.0,160542134.0,"Canada, United States"
 455,The Equalizer 2,6.7,2018,July,R,121.0,Antoine Fuqua,"Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean","Action, Crime, Thriller",Turkey,62000000.0,190400157.0,United States
 456,Hunter Killer,6.6,2018,October,R,121.0,Donovan Marsh,"Gerard Butler, Gary Oldman, Common, Linda Cardellini","Action, Thriller",Bulgaria,40000000.0,31676128.0,"United Kingdom, China, France, United States"
-457,Mandy,6.5,2018,September,Not Rated,121.0,Panos Cosmatos,"Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy","Action, Fantasy, Horror",Belgium,6000000.0,1653784.0,"United Kingdom, Belgium, United States"
+457,Mandy,6.5,2018,September,Unknown,121.0,Panos Cosmatos,"Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy","Action, Fantasy, Horror",Belgium,6000000.0,1653784.0,"United Kingdom, Belgium, United States"
 458,Under the Silver Lake,6.5,2018,April,R,139.0,David Robert Mitchell,"Andrew Garfield, Riley Keough, Topher Grace, Callie Hernandez","Crime, Drama, Mystery",USA,8500000.0,2053469.0,United States
 459,BlacKkKlansman,7.5,2018,August,R,135.0,Spike Lee,"John David Washington, Adam Driver, Laura Harrier, Topher Grace","Biography, Comedy, Crime",USA,15000000.0,93413709.0,"United States, China"
 460,Vice,7.2,2018,December,R,132.0,Adam McKay,"Christian Bale, Amy Adams, Steve Carell, Sam Rockwell","Biography, Comedy, Drama",USA,60000000.0,76073488.0,United States
@@ -361,8 +361,8 @@
 601,Rogue One: A Star Wars Story,7.8,2016,December,PG-13,133.0,Gareth Edwards,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi",Iceland,200000000.0,1058682142.0,United States
 602,Zoolander 2,4.7,2016,February,PG-13,101.0,Ben Stiller,"Ben Stiller, Owen Wilson, Pen lope Cruz, Will Ferrell","Action, Adventure, Comedy",Italy,50000000.0,56722693.0,"United States, Italy"
 603,Split,7.3,2016,January,PG-13,117.0,M Night Shyamalan,"James McAvoy, Anya Taylor Joy, Haley Lu Richardson, Jessica Sula","Horror, Thriller",USA,9000000.0,278454417.0,"United States, Japan"
-604,The Handmaiden,8.1,2016,June,Not Rated,145.0,Park Chan wook,"Kim Min hee, Ha Jung woo, Cho Jin woong, Moon So ri","Drama, Romance, Thriller",Japan,8264462.809917355,37854655.0,South Korea
-605,Terrifier,5.6,2016,March,Unrated,85.0,Damien Leone,"Jenna Kanell, Samantha Scaffidi, David Howard Thornton, Catherine Corcoran","Horror, Thriller",Unknown,35000.0,76376.0,United States
+604,The Handmaiden,8.1,2016,June,Unknown,145.0,Park Chan wook,"Kim Min hee, Ha Jung woo, Cho Jin woong, Moon So ri","Drama, Romance, Thriller",Japan,8264462.809917355,37854655.0,South Korea
+605,Terrifier,5.6,2016,March,Unknown,85.0,Damien Leone,"Jenna Kanell, Samantha Scaffidi, David Howard Thornton, Catherine Corcoran","Horror, Thriller",Unknown,35000.0,76376.0,United States
 607,Nocturnal Animals,7.5,2016,December,R,116.0,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor Johnson","Drama, Thriller",USA,22500000.0,30311857.0,"United States, China"
 608,Storks,6.8,2016,September,PG,87.0,"Nicholas Stoller, Doug Sweetland","Andy Samberg, Katie Crown, Kelsey Grammer, Jennifer Aniston","Animation, Adventure, Comedy",Unknown,70000000.0,183510278.0,United States
 609,La La Land,8.0,2016,December,PG-13,128.0,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J K Simmons","Comedy, Drama, Music",USA,30000000.0,471227161.0,"United States, Hong Kong"
@@ -380,7 +380,7 @@
 621,Manchester by the Sea,7.8,2016,December,R,137.0,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler, Lucas Hedges",Drama,USA,9000000.0,78988148.0,United States
 622,Batman v Superman: Dawn of Justice,6.4,2016,March,PG-13,151.0,Zack Snyder,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Sci-Fi",USA,250000000.0,873637528.0,United States
 623,Bad Santa 2,5.6,2016,November,R,92.0,Mark Waters,"Billy Bob Thornton, Kathy Bates, Tony Cox, Christina Hendricks","Comedy, Crime, Drama",Canada,26000000.0,24079268.0,United States
-624,Train to Busan,7.6,2016,July,Not Rated,118.0,Sang ho Yeon,"Gong Yoo, Jung Yu mi, Ma Dong seok, Su an Kim","Action, Horror, Thriller",South Korea,8264462.809917355,92764199.0,South Korea
+624,Train to Busan,7.6,2016,July,Unknown,118.0,Sang ho Yeon,"Gong Yoo, Jung Yu mi, Ma Dong seok, Su an Kim","Action, Horror, Thriller",South Korea,8264462.809917355,92764199.0,South Korea
 625,13 Hours,7.3,2016,January,R,144.0,Michael Bay,"John Krasinski, Pablo Schreiber, James Badge Dale, David Denman","Action, Drama, History",Malta,50000000.0,69411370.0,"United States, Malta, Morocco"
 626,Moana,7.6,2016,November,PG,107.0,"Ron Clements, John Musker, Don Hall, Chris Williams","Auli i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison","Animation, Adventure, Comedy",Polynesia,150000000.0,665069139.0,United States
 627,Your Name.,8.4,2016,April,PG,106.0,Makoto Shinkai,"Ry nosuke Kamiki, Mone Kamishiraishi, Ry Narita, Aoi Y ki","Animation, Drama, Fantasy",Unknown,3313037.249283667,358180115.0,Japan
@@ -488,7 +488,7 @@
 742,Mission: Impossible - Rogue Nation,7.4,2015,July,PG-13,131.0,Christopher McQuarrie,"Tom Cruise, Rebecca Ferguson, Jeremy Renner, Simon Pegg","Action, Adventure, Thriller",Morocco,150000000.0,682716636.0,"United States, China"
 743,The Gift,7.0,2015,August,R,108.0,Joel Edgerton,"Jason Bateman, Rebecca Hall, Joel Edgerton, Allison Tolman","Drama, Mystery, Thriller",USA,5000000.0,58980521.0,"United States, Australia, China"
 744,Bridge of Spies,7.6,2015,October,PG-13,142.0,Steven Spielberg,"Tom Hanks, Mark Rylance, Alan Alda, Amy Ryan","Drama, History, Thriller",Poland,40000000.0,165478348.0,"Germany, India, United States"
-745,Bone Tomahawk,7.1,2015,February,Not Rated,132.0,S Craig Zahler,"Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins","Drama, Horror, Western",USA,1800000.0,382579.0,"United States, United Kingdom"
+745,Bone Tomahawk,7.1,2015,February,Unknown,132.0,S Craig Zahler,"Kurt Russell, Patrick Wilson, Matthew Fox, Richard Jenkins","Drama, Horror, Western",USA,1800000.0,382579.0,"United States, United Kingdom"
 746,Knock Knock,4.9,2015,October,R,99.0,Eli Roth,"Keanu Reeves, Lorenza Izzo, Ana de Armas, Aaron Burns","Crime, Drama, Horror",Chile,2500000.0,5567103.0,"Chile, Israel, United States"
 747,Terminator Genisys,6.3,2015,July,PG-13,126.0,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney","Action, Adventure, Sci-Fi",USA,155000000.0,440603537.0,"United States, Canada"
 749,The Boy Next Door,4.7,2015,January,R,91.0,Rob Cohen,"Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett",Thriller,USA,4000000.0,52425855.0,United States
@@ -515,7 +515,7 @@
 773,In the Heart of the Sea,6.9,2015,December,PG-13,122.0,Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson, Ben Whishaw","Action, Adventure, Biography",Spain,100000000.0,93920758.0,"United States, Australia, Spain"
 774,Point Break,5.3,2015,December,PG-13,114.0,Ericson Core,"Edgar Ram rez, Luke Bracey, Ray Winstone, Teresa Palmer","Action, Adventure, Crime",Venezuela,105000000.0,133718711.0,"China, Germany, United States, Austria, Italy, Canada"
 775,Brooklyn,7.5,2015,November,PG-13,117.0,John Crowley,"Saoirse Ronan, Emory Cohen, Domhnall Gleeson, Jim Broadbent","Drama, Romance",Ireland,11000000.0,62402155.0,"United Kingdom, Canada, Ireland"
-776,Baahubali: The Beginning,8.0,2015,July,Not Rated,159.0,S S Rajamouli,"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Action, Drama",Bulgaria,18026148.0,24548038.0,India
+776,Baahubali: The Beginning,8.0,2015,July,Unknown,159.0,S S Rajamouli,"Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia","Action, Drama",Bulgaria,18026148.0,24548038.0,India
 777,Jupiter Ascending,5.3,2015,February,PG-13,127.0,"Lana Wachowski, Lilly Wachowski","Channing Tatum, Mila Kunis, Eddie Redmayne, Sean Bean","Action, Adventure, Sci-Fi",UK,176000000.0,183887723.0,"United States, Australia"
 778,Goosebumps,6.3,2015,October,PG,103.0,Rob Letterman,"Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee","Adventure, Comedy, Fantasy",USA,58000000.0,158261424.0,"United States, Australia"
 779,Home,6.6,2015,March,PG,94.0,Tim Johnson,"Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez","Animation, Adventure, Comedy",USA,135000000.0,386041607.0,United States
@@ -591,7 +591,7 @@
 857,The Hunger Games: Mockingjay - Part 1,6.6,2014,November,PG-13,123.0,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson","Action, Adventure, Sci-Fi",USA,125000000.0,755356711.0,"United States, Canada, France"
 858,The Expendables 3,6.1,2014,August,PG-13,126.0,Patrick Hughes,"Sylvester Stallone, Jason Statham, Jet Li, Antonio Banderas","Action, Adventure, Thriller",Romania,80000000.0,214657577.0,"France, Germany, Bulgaria, United States"
 859,Big Hero 6,7.8,2014,November,PG,102.0,"Don Hall, Chris Williams","Ryan Potter, Scott Adsit, Jamie Chung, T J Miller","Animation, Action, Adventure",USA,165000000.0,657869686.0,United States
-860,The Babadook,6.8,2014,November,Not Rated,94.0,Jennifer Kent,"Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney","Horror, Mystery",Australia,2000000.0,10484459.0,"Australia, Canada"
+860,The Babadook,6.8,2014,November,Unknown,94.0,Jennifer Kent,"Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney","Horror, Mystery",Australia,2000000.0,10484459.0,"Australia, Canada"
 861,Boyhood,7.9,2014,August,R,165.0,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith",Drama,USA,4000000.0,48137666.0,United States
 862,Sin City: A Dame to Kill For,6.5,2014,August,R,102.0,"Frank Miller, Robert Rodriguez","Mickey Rourke, Jessica Alba, Josh Brolin, Joseph Gordon Levitt","Action, Crime, Thriller",USA,65000000.0,39407616.0,United States
 863,Noah,5.8,2014,March,PG-13,138.0,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins, Emma Watson","Action, Adventure, Drama",Iceland,125000000.0,359200044.0,United States
@@ -630,11 +630,11 @@
 903,Frozen,7.4,2013,November,PG,102.0,"Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Animation, Adventure, Comedy",Norge,150000000.0,1304550716.0,United States
 904,About Time,7.8,2013,November,R,123.0,Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson","Comedy, Drama, Fantasy",UK,12000000.0,87100449.0,"United Kingdom, United States"
 905,Man of Steel,7.1,2013,June,PG-13,143.0,Zack Snyder,"Henry Cavill, Amy Adams, Michael Shannon, Diane Lane","Action, Adventure, Sci-Fi",Canada,225000000.0,668045518.0,"United States, United Kingdom"
-906,Nymphomaniac: Vol. I,6.9,2013,March,Not Rated,117.0,Lars von Trier,"Charlotte Gainsbourg, Stellan Skarsg rd, Stacy Martin, Shia LaBeouf",Drama,Germany,4700000.0,13551156.0,"Denmark, Germany, Belgium, United Kingdom, France, Sweden, United States"
+906,Nymphomaniac: Vol. I,6.9,2013,March,Unknown,117.0,Lars von Trier,"Charlotte Gainsbourg, Stellan Skarsg rd, Stacy Martin, Shia LaBeouf",Drama,Germany,4700000.0,13551156.0,"Denmark, Germany, Belgium, United Kingdom, France, Sweden, United States"
 907,Iron Man Three,7.1,2013,May,PG-13,130.0,Shane Black,"Robert Downey Jr , Guy Pearce, Gwyneth Paltrow, Don Cheadle","Action, Adventure, Sci-Fi",USA,200000000.0,1214811252.0,United States
 908,The Great Gatsby,7.2,2013,May,PG-13,143.0,Baz Luhrmann,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton, Tobey Maguire","Drama, Romance",Australia,105000000.0,353659851.0,"Australia, United States"
 909,Her,8.0,2013,January,R,126.0,Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara","Drama, Romance, Sci-Fi",China,23000000.0,48517427.0,United States
-910,Coherence,7.2,2013,August,Not Rated,89.0,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen","Drama, Mystery, Sci-Fi",Unknown,50000.0,139745.0,"United States, United Kingdom"
+910,Coherence,7.2,2013,August,Unknown,89.0,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon, Elizabeth Gracen","Drama, Mystery, Sci-Fi",Unknown,50000.0,139745.0,"United States, United Kingdom"
 911,Snowpiercer,7.1,2013,July,R,126.0,Bong Joon Ho,"Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris","Action, Drama, Sci-Fi",Austria,39200000.0,86758912.0,"South Korea, Czech Republic"
 912,The Conjuring,7.5,2013,July,R,112.0,James Wan,"Patrick Wilson, Vera Farmiga, Ron Livingston, Lili Taylor","Horror, Mystery, Thriller",USA,20000000.0,320406242.0,United States
 913,Side Effects,7.1,2013,February,R,106.0,Steven Soderbergh,"Rooney Mara, Channing Tatum, Jude Law, Catherine Zeta Jones","Crime, Drama, Mystery",USA,30000000.0,63414135.0,United States
@@ -676,7 +676,7 @@
 951,Ender's Game,6.6,2013,November,PG-13,114.0,Gavin Hood,"Harrison Ford, Asa Butterfield, Hailee Steinfeld, Abigail Breslin","Action, Adventure, Sci-Fi",Canada,110000000.0,125544024.0,United States
 952,Thor: The Dark World,6.8,2013,November,PG-13,112.0,Alan Taylor,"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsg rd","Action, Adventure, Fantasy",Iceland,170000000.0,644783140.0,United States
 953,Carrie,5.8,2013,October,R,100.0,Kimberly Peirce,"Chlo Grace Moretz, Julianne Moore, Gabriella Wilde, Portia Doubleday","Drama, Horror",Canada,30000000.0,84790678.0,United States
-954,Young & Beautiful,6.7,2013,April,Not Rated,95.0,Fran ois Ozon,"Marine Vacth, G raldine Pailhas, Fr d ric Pierrot, Fantin Ravat","Drama, Romance",France,5295798.18,9757417.0,France
+954,Young & Beautiful,6.7,2013,April,Unknown,95.0,Fran ois Ozon,"Marine Vacth, G raldine Pailhas, Fr d ric Pierrot, Fantin Ravat","Drama, Romance",France,5295798.18,9757417.0,France
 955,2 Guns,6.7,2013,August,R,109.0,Baltasar Korm kur,"Denzel Washington, Mark Wahlberg, Paula Patton, Bill Paxton","Action, Thriller",USA,61000000.0,131940411.0,United States
 956,Evil Dead,6.5,2013,April,R,91.0,Fede Alvarez,"Jane Levy, Shiloh Fernandez, Jessica Lucas, Lou Taylor Pucci",Horror,New Zealand,17000000.0,97542952.0,United States
 957,Olympus Has Fallen,6.5,2013,March,R,119.0,Antoine Fuqua,"Gerard Butler, Aaron Eckhart, Morgan Freeman, Angela Bassett","Action, Thriller",USA,70000000.0,170270201.0,United States
@@ -706,7 +706,7 @@
 983,47 Ronin,6.2,2013,December,PG-13,128.0,Carl Rinsch,"Keanu Reeves, Hiroyuki Sanada, Ko Shibasaki, Tadanobu Asano","Action, Drama, Fantasy",UK,175000000.0,151783839.0,"United States, United Kingdom, Japan, Hungary"
 984,Despicable Me 2,7.3,2013,July,PG,98.0,"Pierre Coffin, Chris Renaud","Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove","Animation, Adventure, Comedy",Unknown,76000000.0,970766005.0,"United States, France, Japan"
 985,Monsters University,7.2,2013,June,G,104.0,Dan Scanlon,"Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren","Animation, Adventure, Comedy",USA,200000000.0,743559645.0,United States
-986,The Great Beauty,7.7,2013,March,Not Rated,141.0,Paolo Sorrentino,"Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso",Drama,Italy,10488000.0,24930592.0,"Italy, France"
+986,The Great Beauty,7.7,2013,March,Unknown,141.0,Paolo Sorrentino,"Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso",Drama,Italy,10488000.0,24930592.0,"Italy, France"
 987,Inside Llewyn Davis,7.4,2013,January,R,104.0,"Ethan Coen, Joel Coen","Oscar Isaac, Carey Mulligan, John Goodman, Garrett Hedlund","Drama, Music",USA,11000000.0,32960249.0,"United States, United Kingdom, France"
 988,The Frozen Ground,6.4,2013,February,R,105.0,Scott Walker,"Nicolas Cage, Vanessa Hudgens, John Cusack, Dean Norris","Crime, Drama, Thriller",USA,27220000.0,5617460.0,United States
 989,Texas Chainsaw,4.8,2013,January,R,92.0,John Luessenhop,"Alexandra Daddario, Tania Raymonde, Scott Eastwood, Trey Songz","Horror, Thriller",USA,20000000.0,47340586.0,United States
@@ -734,7 +734,7 @@
 1013,The Perks of Being a Wallflower,7.9,2012,October,PG-13,103.0,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller, Paul Rudd",Drama,USA,13000000.0,33384127.0,United States
 1014,Prometheus,7.0,2012,June,R,124.0,Ridley Scott,"Noomi Rapace, Logan Marshall Green, Michael Fassbender, Charlize Theron","Adventure, Mystery, Sci-Fi",Iceland,130000000.0,403354469.0,"United Kingdom, United States"
 1015,Silver Linings Playbook,7.7,2012,December,R,122.0,David O Russell,"Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver","Comedy, Drama, Romance",USA,21000000.0,236412453.0,United States
-1016,Nativity 2: Danger in the Manger!,5.3,2012,November,Not Rated,105.0,Debbie Isitt,"David Tennant, Marc Wootton, Jason Watkins, Joanna Page","Comedy, Family",UK,4139999.9999999995,14433981.0,United Kingdom
+1016,Nativity 2: Danger in the Manger!,5.3,2012,November,Unknown,105.0,Debbie Isitt,"David Tennant, Marc Wootton, Jason Watkins, Joanna Page","Comedy, Family",UK,4139999.9999999995,14433981.0,United Kingdom
 1017,Rock of Ages,5.9,2012,June,PG-13,123.0,Adam Shankman,"Julianne Hough, Diego Boneta, Tom Cruise, Alec Baldwin","Comedy, Drama, Musical",USA,75000000.0,59418613.0,United States
 1018,Seven Psychopaths,7.1,2012,October,R,110.0,Martin McDonagh,"Colin Farrell, Woody Harrelson, Sam Rockwell, Christopher Walken","Comedy, Crime",USA,15000000.0,32226382.0,"United Kingdom, United States"
 1019,Ted,6.9,2012,June,R,106.0,Seth MacFarlane,"Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale",Comedy,USA,50000000.0,549368315.0,United States
@@ -804,7 +804,7 @@
 1087,The Watch,5.7,2012,July,R,102.0,Akiva Schaffer,"Ben Stiller, Vince Vaughn, Jonah Hill, Billy Crudup","Comedy, Sci-Fi",Georgia,68000000.0,68267862.0,United States
 1088,Abraham Lincoln: Vampire Hunter,5.9,2012,June,R,105.0,Timur Bekmambetov,"Benjamin Walker, Rufus Sewell, Dominic Cooper, Anthony Mackie","Action, Fantasy, Horror",USA,69000000.0,116471580.0,"United States, Russia"
 1089,Ice Age: Continental Drift,6.5,2012,July,PG,88.0,"Steve Martino, Michael Thurmeier","Ray Romano, Denis Leary, John Leguizamo, Aziz Ansari","Animation, Adventure, Comedy",Unknown,95000000.0,877244782.0,United States
-1090,Maniac,6.1,2012,January,Not Rated,89.0,Franck Khalfoun,"Elijah Wood, Nora Arnezeder, America Olivo, Megan Duffy","Horror, Thriller",USA,6000000.0,2631275.0,"France, United States"
+1090,Maniac,6.1,2012,January,Unknown,89.0,Franck Khalfoun,"Elijah Wood, Nora Arnezeder, America Olivo, Megan Duffy","Horror, Thriller",USA,6000000.0,2631275.0,"France, United States"
 1091,LOL,4.3,2012,March,PG-13,97.0,Lisa Azuelos,"Miley Cyrus, Douglas Booth, Ashley Greene, Demi Moore","Comedy, Drama, Romance",France,11000000.0,10578643.0,United States
 1092,The Three Stooges,5.1,2012,April,PG,92.0,"Bobby Farrelly, Peter Farrelly","Sean Hayes, Chris Diamantopoulos, Will Sasso, Jane Lynch","Comedy, Family",USA,30000000.0,54819301.0,United States
 1093,Madagascar 3: Europe's Most Wanted,6.8,2012,June,PG,93.0,"Eric Darnell, Tom McGrath, Conrad Vernon","Ben Stiller, Jada Pinkett Smith, Chris Rock, David Schwimmer","Animation, Adventure, Comedy",USA,145000000.0,746921274.0,United States
@@ -954,7 +954,7 @@
 1251,She's Out of My League,6.4,2010,March,R,104.0,Jim Field Smith,"Jay Baruchel, Alice Eve, T J Miller, Mike Vogel","Comedy, Romance",USA,20000000.0,49779728.0,United States
 1252,The Twilight Saga: Eclipse,5.0,2010,June,PG-13,124.0,David Slade,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Xavier Samuel","Action, Adventure, Drama",USA,68000000.0,698509825.0,United States
 1253,The Book of Eli,6.8,2010,January,R,118.0,"Albert Hughes, Allen Hughes","Denzel Washington, Mila Kunis, Ray Stevenson, Gary Oldman","Action, Adventure, Drama",USA,80000000.0,157107755.0,United States
-1254,Dog Pound,7.0,2010,June,Not Rated,91.0,Kim Chapiron,"Adam Butcher, Shane Kippel, Matthew Morales, Slim Twig","Crime, Drama",Canada,5506199.999999999,465725.0,"France, Canada, United Kingdom"
+1254,Dog Pound,7.0,2010,June,Unknown,91.0,Kim Chapiron,"Adam Butcher, Shane Kippel, Matthew Morales, Slim Twig","Crime, Drama",Canada,5506199.999999999,465725.0,"France, Canada, United Kingdom"
 1255,Unthinkable,7.0,2010,May,R,97.0,Gregor Jordan,"Samuel L Jackson, Carrie Anne Moss, Michael Sheen, Stephen Root","Crime, Drama, Thriller",USA,15000000.0,1669947.0,United States
 1256,Never Let Me Go,7.1,2010,October,R,103.0,Mark Romanek,"Keira Knightley, Carey Mulligan, Andrew Garfield, Izzy Meikle Small","Drama, Romance, Sci-Fi",UK,15000000.0,9918093.0,United Kingdom
 1257,127 Hours,7.6,2010,January,R,94.0,Danny Boyle,"James Franco, Amber Tamblyn, Kate Mara, Sean Bott","Biography, Drama",USA,18000000.0,60738797.0,"United States, United Kingdom, France"
@@ -995,7 +995,7 @@
 1296,The Switch,6.1,2010,August,PG-13,101.0,"Josh Gordon, Will Speck","Jennifer Aniston, Jason Bateman, Patrick Wilson, Jeff Goldblum","Comedy, Drama, Romance",USA,19000000.0,49843011.0,United States
 1297,Monsters,6.4,2010,December,R,94.0,Gareth Edwards,"Scoot McNairy, Whitney Able, Mario Zuniga Benavides, Annalee Jefferies","Adventure, Drama, Romance",Guatemala,500000.0,5060438.0,"United Kingdom, Mexico"
 1298,Killers,5.4,2010,June,PG-13,100.0,Robert Luketic,"Katherine Heigl, Ashton Kutcher, Tom Selleck, Catherine O Hara","Action, Comedy, Romance",France,75000000.0,98159963.0,United States
-1299,Los ojos de Julia,6.7,2010,October,Not Rated,118.0,Guillem Morales,"Bel n Rueda, Llu s Homar, Pablo Derqui, Francesc Orella","Horror, Mystery, Thriller",Spain,5699999.999999999,16934369.0,"Spain, Mexico"
+1299,Los ojos de Julia,6.7,2010,October,Unknown,118.0,Guillem Morales,"Bel n Rueda, Llu s Homar, Pablo Derqui, Francesc Orella","Horror, Mystery, Thriller",Spain,5699999.999999999,16934369.0,"Spain, Mexico"
 1300,Avatar,7.8,2009,December,PG-13,162.0,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez","Action, Adventure, Fantasy",USA,237000000.0,2922917914.0,United States
 1301,A Christmas Carol,6.8,2009,November,PG,96.0,Robert Zemeckis,"Jim Carrey, Gary Oldman, Colin Firth, Steve Valentine","Animation, Adventure, Comedy",Unknown,200000000.0,325286646.0,United States
 1302,Inglourious Basterds,8.3,2009,August,R,153.0,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth, M lanie Laurent","Adventure, Drama, War",France,70000000.0,321457747.0,"Germany, United States"
@@ -1024,11 +1024,11 @@
 1327,Fast & Furious,6.5,2009,April,PG-13,107.0,Justin Lin,"Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster","Action, Crime, Thriller",Dominican Republic,85000000.0,360366870.0,"United States, Japan"
 1328,Up in the Air,7.4,2009,December,R,109.0,Jason Reitman,"George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman","Comedy, Drama, Romance",USA,25000000.0,166842739.0,United States
 1329,New in Town,5.6,2009,January,PG,97.0,Jonas Elmer,"Ren e Zellweger, Harry Connick Jr , Siobhan Fallon Hogan, J K Simmons","Comedy, Romance",Canada,8000000.0,29010817.0,"United States, Canada"
-1330,Antichrist,6.5,2009,May,Not Rated,108.0,Lars von Trier,"Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstr m","Drama, Horror, Thriller",Germany,11000000.0,7413863.0,"Denmark, Germany, France, Sweden, Italy, Poland"
+1330,Antichrist,6.5,2009,May,Unknown,108.0,Lars von Trier,"Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstr m","Drama, Horror, Thriller",Germany,11000000.0,7413863.0,"Denmark, Germany, France, Sweden, Italy, Poland"
 1331,Couples Retreat,5.5,2009,October,PG-13,113.0,Peter Billingsley,"Vince Vaughn, Malin Akerman, Jon Favreau, Jason Bateman",Comedy,French Polynesia,70000000.0,171844840.0,United States
 1332,District 9,7.9,2009,August,R,112.0,Neill Blomkamp,"Sharlto Copley, David James, Jason Cope, Nathalie Boltt","Action, Sci-Fi, Thriller",South Africa,30000000.0,210888950.0,"South Africa, United States, New Zealand, Canada"
 1333,Zombieland,7.6,2009,October,R,88.0,Ruben Fleischer,"Jesse Eisenberg, Emma Stone, Woody Harrelson, Abigail Breslin","Action, Comedy, Horror",USA,23600000.0,102392080.0,United States
-1334,Enter the Void,7.2,2009,May,Not Rated,161.0,Gaspar No,"Nathaniel Brown, Paz de la Huerta, Cyril Roy, Olly Alexander","Drama, Fantasy",Canada,16000000.0,775385.0,"France, Germany, Italy, Canada, Japan"
+1334,Enter the Void,7.2,2009,May,Unknown,161.0,Gaspar No,"Nathaniel Brown, Paz de la Huerta, Cyril Roy, Olly Alexander","Drama, Fantasy",Canada,16000000.0,775385.0,"France, Germany, Italy, Canada, Japan"
 1335,Jennifer's Body,5.4,2009,September,R,102.0,Karyn Kusama,"Megan Fox, Amanda Seyfried, Adam Brody, Johnny Simmons","Comedy, Horror",USA,16000000.0,31556061.0,United States
 1336,X-Men Origins: Wolverine,6.5,2009,May,PG-13,107.0,Gavin Hood,"Hugh Jackman, Liev Schreiber, Ryan Reynolds, Danny Huston","Action, Sci-Fi",New Zealand,150000000.0,373062864.0,"United States, United Kingdom"
 1337,The Road,7.2,2009,November,R,111.0,John Hillcoat,"Viggo Mortensen, Charlize Theron, Kodi Smit McPhee, Robert Duvall",Drama,USA,25000000.0,27639579.0,United States
@@ -1080,7 +1080,7 @@
 1387,Year One,4.9,2009,June,PG-13,97.0,Harold Ramis,"Jack Black, Michael Cera, Olivia Wilde, Oliver Platt",Comedy,USA,60000000.0,62357900.0,United States
 1388,The Boat That Rocked,7.3,2009,November,R,117.0,Richard Curtis,"Philip Seymour Hoffman, Bill Nighy, Nick Frost, Michael Hadley","Comedy, Drama, Music",UK,50000000.0,36348784.0,"United Kingdom, France, Germany, United States"
 1389,Thirst,7.1,2009,April,R,134.0,Park Chan wook,"Song Kang ho, Kim Ok bin, Hee jin Choi, Seo Dong soo","Drama, Fantasy, Horror",South Korea,5000000.0,13085023.0,"South Korea, United States"
-1390,Mary and Max,8.1,2009,March,Not Rated,92.0,Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries","Animation, Comedy, Drama",Australia,5932800.0,1740429.0,Australia
+1390,Mary and Max,8.1,2009,March,Unknown,92.0,Adam Elliot,"Toni Collette, Philip Seymour Hoffman, Eric Bana, Barry Humphries","Animation, Comedy, Drama",Australia,5932800.0,1740429.0,Australia
 1391,The Box,5.6,2009,November,PG-13,115.0,Richard Kelly,"Cameron Diaz, James Marsden, Frank Langella, James Rebhorn","Drama, Mystery, Thriller",USA,30000000.0,33334176.0,United States
 1392,Fired Up!,6.1,2009,February,PG-13,90.0,Will Gluck,"Eric Christian Olsen, Nicholas D Agosto, Sarah Roemer, Molly Sims","Comedy, Sport",USA,20000000.0,18599102.0,United States
 1393,The Time Traveler's Wife,7.1,2009,August,PG-13,107.0,Robert Schwentke,"Eric Bana, Rachel McAdams, Ron Livingston, Michelle Nolden","Comedy, Drama, Fantasy",Canada,39000000.0,101344412.0,United States
@@ -1329,12 +1329,12 @@
 1657,Aquamarine,5.3,2006,March,PG,110.0,Elizabeth Allen Rosenbaum,"Emma Roberts, JoJo, Sara Paxton, Jake McDorman","Comedy, Family, Fantasy",Australia,12000000.0,22989957.0,United States
 1658,The Fall,7.8,2006,May,R,117.0,Tarsem Singh,"Lee Pace, Catinca Untaru, Justine Waddell, Kim Uylenbroek","Adventure, Drama, Fantasy",Turkey,30000000.0,3669465.0,"United States, South Africa, India"
 1659,The Break-Up,5.8,2006,June,PG-13,106.0,Peyton Reed,"Jennifer Aniston, Vince Vaughn, Jon Favreau, Joey Lauren Adams","Comedy, Drama, Romance",USA,52000000.0,205668210.0,United States
-1660,This Is England,7.7,2006,April,Not Rated,101.0,Shane Meadows,"Thomas Turgoose, Stephen Graham, Jo Hartley, Andrew Shim","Crime, Drama",UK,2069999.9999999998,8481254.0,United Kingdom
+1660,This Is England,7.7,2006,April,Unknown,101.0,Shane Meadows,"Thomas Turgoose, Stephen Graham, Jo Hartley, Andrew Shim","Crime, Drama",UK,2069999.9999999998,8481254.0,United Kingdom
 1662,The Illusionist,7.6,2006,September,PG-13,110.0,Neil Burger,"Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell","Drama, Fantasy, Mystery",Czech Republic,16500000.0,87892388.0,"United States, Czech Republic"
 1664,Charlotte's Web,6.3,2006,December,G,97.0,Gary Winick,"Dakota Fanning, Julia Roberts, Oprah Winfrey, Steve Buscemi","Adventure, Comedy, Family",Australia,85000000.0,148963822.0,"United States, Germany, Australia"
 1665,The Covenant,5.1,2006,September,PG-13,97.0,Renny Harlin,"Steven Strait, Sebastian Stan, Toby Hemingway, Taylor Kitsch","Action, Adventure, Fantasy",Canada,20000000.0,37598767.0,"United States, Canada"
 1666,The Queen,7.3,2006,November,PG-13,103.0,Stephen Frears,"Helen Mirren, Michael Sheen, James Cromwell, Alex Jennings","Biography, Drama",UK,13523999.999999998,124923153.0,"United Kingdom, United States, France, Italy"
-1667,Shortbus,6.4,2006,October,Not Rated,101.0,John Cameron Mitchell,"Sook Yin Lee, Peter Stickles, PJ DeBoy, Paul Dawson","Comedy, Drama, Romance",USA,2000000.0,5557564.0,United States
+1667,Shortbus,6.4,2006,October,Unknown,101.0,John Cameron Mitchell,"Sook Yin Lee, Peter Stickles, PJ DeBoy, Paul Dawson","Comedy, Drama, Romance",USA,2000000.0,5557564.0,United States
 1668,Penelope,6.7,2006,February,PG,104.0,Mark Palansky,"Christina Ricci, James McAvoy, Reese Witherspoon, Richard E Grant","Comedy, Fantasy, Romance",UK,15000000.0,21156270.0,"United Kingdom, United States"
 1670,Crank,6.9,2006,September,R,88.0,"Mark Neveldine, Brian Taylor","Jason Statham, Amy Smart, Carlos Sanz, Jose Pablo Cantillo","Action, Crime, Thriller",USA,12000000.0,42931041.0,United States
 1671,Lucky Number Slevin,7.7,2006,April,R,110.0,Paul McGuigan,"Josh Hartnett, Ben Kingsley, Morgan Freeman, Lucy Liu","Crime, Drama, Thriller",USA,27000000.0,56308881.0,"United States, Germany, United Kingdom, Canada"
@@ -1380,7 +1380,7 @@
 1713,King Kong,7.2,2005,December,PG-13,187.0,Peter Jackson,"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann","Action, Adventure, Drama",New Zealand,207000000.0,556906378.0,"United States, New Zealand, Germany"
 1714,Kiss Kiss Bang Bang,7.5,2005,November,R,103.0,Shane Black,"Robert Downey Jr , Val Kilmer, Michelle Monaghan, Corbin Bernsen","Comedy, Crime, Mystery",California USA,15000000.0,15785148.0,United States
 1715,Brokeback Mountain,7.7,2005,January,R,134.0,Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid","Drama, Romance",USA,14000000.0,178062759.0,"United States, Canada"
-1716,Lie with Me,5.2,2005,March,Not Rated,93.0,Clement Virgo,"Lauren Lee Smith, Eric Balfour, Polly Shannon, Mayko Nguyen","Drama, Romance",Canada,1716000.0,172087.0,Canada
+1716,Lie with Me,5.2,2005,March,Unknown,93.0,Clement Virgo,"Lauren Lee Smith, Eric Balfour, Polly Shannon, Mayko Nguyen","Drama, Romance",Canada,1716000.0,172087.0,Canada
 1717,Coach Carter,7.3,2005,January,PG-13,136.0,Thomas Carter,"Samuel L Jackson, Rick Gonzalez, Robert Ri chard, Rob Brown","Biography, Drama, Sport",USA,30000000.0,76669554.0,"United States, Germany"
 1718,Star Wars: Episode III - Revenge of the Sith,7.6,2005,May,PG-13,140.0,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor, Samuel L Jackson","Action, Adventure, Fantasy",Italy,113000000.0,868390560.0,"United States, Italy, Switzerland, Thailand"
 1719,Constantine,7.0,2005,February,R,121.0,Francis Lawrence,"Keanu Reeves, Rachel Weisz, Djimon Hounsou, Shia LaBeouf","Action, Fantasy, Horror",USA,100000000.0,230884728.0,"United States, Germany"
@@ -1445,7 +1445,7 @@
 1782,Lady Vengeance,7.5,2005,July,R,115.0,Park Chan wook,"Nam mi Kang, Jeong nam Choi, Hye Sook Go, Bok hwa Baek","Crime, Drama, Thriller",South Korea,3471074.380165289,23834149.0,South Korea
 1783,Lords of Dogtown,7.1,2005,June,PG-13,107.0,Catherine Hardwicke,"Heath Ledger, Emile Hirsch, Victor Rasuk, Johnny Knoxville","Biography, Drama, Sport",USA,25000000.0,13411957.0,"Germany, United States"
 1784,Capote,7.3,2005,February,R,114.0,Bennett Miller,"Philip Seymour Hoffman, Clifton Collins Jr , Catherine Keener, Allie Mickelson","Biography, Crime, Drama",Canada,7000000.0,49327405.0,"United States, Canada"
-1785,Noroi,6.9,2005,June,Not Rated,115.0,K ji Shiraishi,"Jin Muraki, Rio Kanno, Tomono Kuga, Marika Matsumoto","Horror, Mystery, Thriller",Japan,2000000.0,6819.0,Japan
+1785,Noroi,6.9,2005,June,Unknown,115.0,K ji Shiraishi,"Jin Muraki, Rio Kanno, Tomono Kuga, Marika Matsumoto","Horror, Mystery, Thriller",Japan,2000000.0,6819.0,Japan
 1786,The Exorcism of Emily Rose,6.7,2005,September,PG-13,119.0,Scott Derrickson,"Laura Linney, Tom Wilkinson, Shohreh Aghdashloo, Campbell Scott","Drama, Horror, Thriller",USA,19000000.0,145166804.0,United States
 1788,Monster-in-Law,5.5,2005,May,PG-13,101.0,Robert Luketic,"Jennifer Lopez, Michael Vartan, Jane Fonda, Wanda Sykes","Comedy, Romance",USA,43000000.0,155457327.0,"United States, Germany"
 1789,A Lot Like Love,6.6,2005,April,PG-13,107.0,Nigel Cole,"Ashton Kutcher, Amanda Peet, Taryn Manning, Aimee Garcia","Comedy, Drama, Romance",USA,30000000.0,42886719.0,United States
@@ -1490,7 +1490,7 @@
 1828,Downfall,8.2,2004,April,R,156.0,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane K hler","Biography, Drama, History",Russia,15389999.999999998,92181574.0,"Germany, Austria, Italy"
 1829,White Chicks,5.7,2004,June,PG-13,109.0,Keenen Ivory Wayans,"Marlon Wayans, Shawn Wayans, Busy Philipps, Maitland Ward","Comedy, Crime",Canada,37000000.0,113100873.0,United States
 1830,Shrek 2,7.3,2004,May,PG,93.0,"Andrew Adamson, Kelly Asbury, Conrad Vernon","Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews","Animation, Adventure, Comedy",Unknown,150000000.0,928760770.0,United States
-1831,9 Songs,4.8,2004,March,Not Rated,71.0,Michael Winterbottom,"Kieran O Brien, Margo Stilley, Robert Levon Been, Black Rebel Motorcycle Club","Drama, Music, Romance",Norway,1380000.0,1590308.0,United Kingdom
+1831,9 Songs,4.8,2004,March,Unknown,71.0,Michael Winterbottom,"Kieran O Brien, Margo Stilley, Robert Levon Been, Black Rebel Motorcycle Club","Drama, Music, Romance",Norway,1380000.0,1590308.0,United Kingdom
 1832,The Village,6.6,2004,July,PG-13,108.0,M Night Shyamalan,"Sigourney Weaver, William Hurt, Joaquin Phoenix, Bryce Dallas Howard","Drama, Mystery, Thriller",USA,60000000.0,256697520.0,United States
 1833,Dawn of the Dead,7.3,2004,March,R,101.0,Zack Snyder,"Sarah Polley, Ving Rhames, Mekhi Phifer, Jake Weber","Action, Horror",Canada,26000000.0,102278712.0,"United States, Canada, Japan, France"
 1834,Layer Cake,7.3,2004,June,R,105.0,Matthew Vaughn,"Daniel Craig, Sienna Miller, Michael Gambon, Tom Hardy","Action, Crime, Drama",UK,5520000.0,11850214.0,United Kingdom
@@ -1513,7 +1513,7 @@
 1851,The Punisher,6.4,2004,April,R,124.0,Jonathan Hensleigh,"Thomas Jane, John Travolta, Samantha Mathis, Laura Harring","Action, Crime, Drama",USA,33000000.0,54700105.0,"United States, Germany"
 1852,The Bourne Supremacy,7.7,2004,July,PG-13,108.0,Paul Greengrass,"Matt Damon, Franka Potente, Joan Allen, Brian Cox","Action, Mystery, Thriller",India,75000000.0,290835269.0,"United States, Germany, Russia, India"
 1854,Meet the Fockers,6.3,2004,December,PG-13,115.0,Jay Roach,"Ben Stiller, Robert De Niro, Blythe Danner, Teri Polo","Comedy, Romance",Official Facebook,80000000.0,522657936.0,United States
-1855,Dead Man's Shoes,7.6,2004,October,Not Rated,90.0,Shane Meadows,"Paddy Considine, Gary Stretch, Toby Kebbell, Stuart Wolfenden","Crime, Drama, Thriller",UK,959642.34,203450.0,United Kingdom
+1855,Dead Man's Shoes,7.6,2004,October,Unknown,90.0,Shane Meadows,"Paddy Considine, Gary Stretch, Toby Kebbell, Stuart Wolfenden","Crime, Drama, Thriller",UK,959642.34,203450.0,United Kingdom
 1856,Birth,6.2,2004,October,R,100.0,Jonathan Glazer,"Nicole Kidman, Cameron Bright, Lauren Bacall, Danny Huston","Drama, Fantasy, Mystery",USA,20000000.0,23925492.0,"United Kingdom, France, Germany, United States"
 1857,The Chronicles of Riddick,6.6,2004,June,R,119.0,David Twohy,"Vin Diesel, Judi Dench, Colm Feore, Thandiwe Newton","Action, Adventure, Sci-Fi",Canada,105000000.0,115900534.0,United States
 1858,Walking Tall,6.2,2004,April,PG-13,86.0,Kevin Bray,"Dwayne Johnson, Ashley Scott, Johnny Knoxville, Michael Bowen","Action, Crime",Canada,46000000.0,57223890.0,United States
@@ -1571,7 +1571,7 @@
 1911,Lost in Translation,7.7,2003,October,R,102.0,Sofia Coppola,"Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris","Comedy, Drama",Japan,4000000.0,118686937.0,"United States, Japan"
 1912,Mystic River,7.9,2003,October,R,138.0,Clint Eastwood,"Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum","Crime, Drama, Mystery",USA,25000000.0,156595191.0,"United States, Australia"
 1913,The Italian Job,7.0,2003,May,PG-13,111.0,F Gary Gray,"Donald Sutherland, Mark Wahlberg, Edward Norton, Charlize Theron","Action, Crime, Thriller",Italy,60000000.0,176070171.0,"United States, France, Italy, United Kingdom, Germany"
-1914,Memories of Murder,8.1,2003,May,Not Rated,132.0,Bong Joon Ho,"Song Kang ho, Kim Sang kyung, Roe ha Kim, Jae ho Song","Crime, Drama, Mystery",South Korea,2800000.0,1166717.0,South Korea
+1914,Memories of Murder,8.1,2003,May,Unknown,132.0,Bong Joon Ho,"Song Kang ho, Kim Sang kyung, Roe ha Kim, Jae ho Song","Crime, Drama, Mystery",South Korea,2800000.0,1166717.0,South Korea
 1915,Monster,7.3,2003,January,R,109.0,Patty Jenkins,"Charlize Theron, Christina Ricci, Bruce Dern, Lee Tergesen","Biography, Crime, Drama",USA,8000000.0,58469210.0,"United States, Germany"
 1916,2 Fast 2 Furious,5.9,2003,June,PG-13,107.0,John Singleton,"Paul Walker, Tyrese Gibson, Cole Hauser, Eva Mendes","Action, Crime, Thriller",USA,76000000.0,236350661.0,"United States, Germany"
 1917,Finding Nemo,8.2,2003,May,G,100.0,"Andrew Stanton, Lee Unkrich","Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe","Animation, Adventure, Comedy",USA,94000000.0,940352645.0,United States
@@ -1606,7 +1606,7 @@
 1946,Something's Gotta Give,6.7,2003,December,PG-13,128.0,Nancy Meyers,"Jack Nicholson, Diane Keaton, Keanu Reeves, Amanda Peet","Comedy, Drama, Romance",USA,80000000.0,265328738.0,United States
 1947,Bad Boys II,6.6,2003,July,R,147.0,Michael Bay,"Will Smith, Martin Lawrence, Gabrielle Union, Jordi Moll ","Action, Comedy, Crime",Puerto Rico,130000000.0,273339556.0,United States
 1949,Cheaper by the Dozen,5.9,2003,December,PG,98.0,Shawn Levy,"Steve Martin, Bonnie Hunt, Hilary Duff, Piper Perabo","Comedy, Family",USA,40000000.0,190538630.0,United States
-1950,The Brown Bunny,4.9,2003,November,Not Rated,93.0,Vincent Gallo,"Vincent Gallo, Chlo Sevigny, Cheryl Tiegs, Elizabeth Blake",Drama,USA,10000000.0,402599.0,"United States, Japan"
+1950,The Brown Bunny,4.9,2003,November,Unknown,93.0,Vincent Gallo,"Vincent Gallo, Chlo Sevigny, Cheryl Tiegs, Elizabeth Blake",Drama,USA,10000000.0,402599.0,"United States, Japan"
 1951,The Core,5.5,2003,March,PG-13,135.0,Jon Amiel,"Aaron Eckhart, Hilary Swank, Delroy Lindo, Bruce Greenwood","Action, Adventure, Sci-Fi",UK,60000000.0,73498611.0,"United Kingdom, France, Italy, Germany, Canada, United States"
 1952,Anger Management,6.2,2003,April,PG-13,106.0,Peter Segal,"Jack Nicholson, Adam Sandler, Marisa Tomei, Luis Guzm n",Comedy,USA,75000000.0,195745823.0,United States
 1953,Freaky Friday,6.3,2003,August,PG,97.0,Mark Waters,"Jamie Lee Curtis, Lindsay Lohan, Mark Harmon, Harold Gould","Comedy, Family, Fantasy",USA,20000000.0,160846332.0,United States
